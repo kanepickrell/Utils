@@ -5,7 +5,7 @@ import string
 #plan:
 # create empty list, define password length, def passcoder() method
 
-word_length = 9
+word_length = 15
 
 components = [string.ascii_letters, string.digits, "!@#$%^&*"]
 chars = []
